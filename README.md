@@ -1,6 +1,6 @@
 # Prédiction des maladies cardiaques
 
-Mini-projet de Machine Learning (S7) : prédire la présence d'une maladie cardiaque à partir de
+Projet de Machine Learning : prédire la présence d'une maladie cardiaque à partir de
 mesures cliniques, en comparant cinq algorithmes de classification.
 
 L'objectif métier oriente tout le projet : **mieux vaut détecter un maximum de malades**
