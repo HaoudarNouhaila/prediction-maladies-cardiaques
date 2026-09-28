@@ -47,7 +47,7 @@ malade déclaré sain — est bien plus grave qu'un faux positif.
 | Modèle | Train acc. | Test acc. | Recall classe 1 | Précision classe 1 |
 |---|---|---|---|---|
 | Logistic Regression | 86,63 % | **83,00 %** | 0,86 | 0,81 |
-| **SVM** (RBF) | 88,61 % | 81,00 % | **0,90** | 0,76 |
+| **SVM** (RBF) | 88,61 % | 81,00 % | **0,97** | 0,80 |
 | Random Forest (1000 arbres) | 100,00 % | 81,00 % | 0,88 | 0,77 |
 | Decision Tree | 100,00 % | 73,00 % | 0,69 | 0,74 |
 | KNN | 85,64 % | 72,00 % | 0,80 | 0,68 |
