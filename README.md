@@ -53,7 +53,7 @@ malade déclaré sain — est bien plus grave qu'un faux positif.
 | KNN | 85,64 % | 72,00 % | 0,80 | 0,68 |
 
 **Modèle retenu : SVM.** La régression logistique a la meilleure accuracy globale, mais le SVM
-détecte **90 % des patients malades** — le critère qui compte ici — au prix de quelques faux positifs
+détecte **97 % des patients malades** — le critère qui compte ici — au prix de quelques faux positifs
 supplémentaires. Random Forest et Decision Tree atteignent 100 % en entraînement pour 81 % et 73 %
 en test : **surapprentissage** net, généralisation peu fiable.
 
